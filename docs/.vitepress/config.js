@@ -1,7 +1,7 @@
 export default {
   themeConfig: {
     siteTitle: 'Servicios CGI',
-    base: 'vue-doc-test',
+    base: '/vue-doc-test/',
 
     sidebar: [
       {
