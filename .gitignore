@@ -6,7 +6,7 @@
 .idea
 .vite_opt_cache
 .vscode
-dist
+docs/.vitepress/dist
 node_modules
 pnpm-global
 TODOs.md
