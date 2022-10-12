@@ -1,5 +1,4 @@
 export default {
-  base: '/vue-doc-test/',
   themeConfig: {
     siteTitle: 'Servicios CGI',
 
