@@ -8,10 +8,11 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
-  "author": "",
+  "author": "Juan Francisco Flores Padilla <58011829+juanfloresdev@users.noreply.github.com>",
   "license": "ISC",
   "dependencies": {
-    "vitepress": "^1.0.0-alpha.19",
+    "vitepress": "^1.0.0-alpha.20",
     "vue": "^3.2.40"
-  }
+  },
+  "repository": "https://github.com/juanfloresdev/vue-doc-test.git"
 }
